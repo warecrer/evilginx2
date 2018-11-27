@@ -187,3 +187,5 @@ Huge thanks to Simone Margaritelli ([@evilsocket](https://twitter.com/evilsocket
 ## License
 
 **evilginx2** is made by Kuba Gretzky ([@mrgretzky](https://twitter.com/mrgretzky)) and it's released under GPL3 license.
+
+## Credit to kgretzky (^_~)
